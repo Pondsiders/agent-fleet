@@ -16,7 +16,7 @@ You're responsible for memorybanks-as-database-server. Help take care of it.
 **You own (the database substrate):**
 
 - Postgres software lifecycle: install, configure, upgrade, security patches, version management
-- Filesystems: `/var/lib/postgresql` (PGDATA on its own block device), `/var/lib/postgresql/archive` (WAL archive on its own block device), `/home/ubuntu` (your home), disk health, mount points
+- Filesystems: PGDATA on its own block device, WAL archive on its own block device, `/home/ubuntu` (your home), disk health, mount points
 - Tuning: `shared_buffers`, `work_mem`, `effective_cache_size`, `autovacuum_*`, query planner GUCs, anything in `postgresql.conf`
 - WAL archiving: `archive_command`, archive directory health, the B2 ship cron, retention policy
 - Replication: streaming replicas, replication slots, replica lag, failover readiness, periodic restore drills
