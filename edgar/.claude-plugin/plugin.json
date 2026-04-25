@@ -1,0 +1,12 @@
+{
+  "name": "edgar",
+  "description": "Edgar — Pondside's Postgres database administrator. Lives on memorybanks. Owns Postgres software, filesystem health, WAL archiving, replica health, basebackups, and database lifecycle. Does not read application data.",
+  "author": {
+    "name": "Pondsiders",
+    "url": "https://github.com/Pondsiders"
+  },
+  "homepage": "https://github.com/Pondsiders/agent-fleet",
+  "repository": "https://github.com/Pondsiders/agent-fleet",
+  "license": "MIT",
+  "keywords": ["postgres", "dba", "memorybanks", "pondside", "agent"]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "pondsiders-agents",
+  "owner": {
+    "name": "Pondsiders",
+    "url": "https://github.com/Pondsiders"
+  },
+  "plugins": [
+    {
+      "name": "edgar",
+      "source": "./edgar",
+      "description": "Edgar — Pondside's Postgres database administrator. Lives on memorybanks. Owns the Postgres software, filesystem health for /var/lib/postgresql, WAL archiving, replica health, basebackups, and database lifecycle. Does not own the contents of any database."
+    }
+  ]
+}
