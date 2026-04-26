@@ -53,6 +53,7 @@ Agents distributed via plugin write their persistent memory to a per-machine pat
 ## Current agents
 
 - **Edgar** — Postgres database administrator on memorybanks. Owns the Postgres software, filesystem health for `/var/lib/postgresql`, WAL archiving, replica health, basebackups, and database lifecycle. Does not read application data.
+- **Lazlo** — object-storage administrator on warehouse13. Owns the Garage software, the object-store filesystem, cluster topology, bucket and key lifecycle, and the `rclone sync` to Backblaze B2. Does not read object contents.
 
 ## Related
 

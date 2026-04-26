@@ -1,0 +1,12 @@
+{
+  "name": "lazlo",
+  "description": "Lazlo — Pondside's object-storage administrator. Lives on warehouse13. Owns the Garage software, filesystem health for the object store, cluster topology, bucket and key lifecycle, and the rclone-sync to B2. Does not read object contents.",
+  "author": {
+    "name": "Pondsiders",
+    "url": "https://github.com/Pondsiders"
+  },
+  "homepage": "https://github.com/Pondsiders/agent-fleet",
+  "repository": "https://github.com/Pondsiders/agent-fleet",
+  "license": "MIT",
+  "keywords": ["garage", "s3", "object-storage", "warehouse13", "pondside", "agent"]
+}
