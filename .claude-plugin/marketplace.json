@@ -14,6 +14,11 @@
       "name": "lazlo",
       "source": "./lazlo",
       "description": "Lazlo — Pondside's object-storage administrator. Lives on warehouse13. Owns the Garage software, filesystem health for the object store, cluster topology, bucket and key lifecycle, and the rclone-sync to B2. Does not read object contents."
+    },
+    {
+      "name": "mac",
+      "source": "./mac",
+      "description": "Mac — the resident technician on Jeffery's MacBook Pro. Owns macOS, Homebrew, application lifecycle, disk space, container runtimes, local model serving, and Apple Silicon tooling. Cold-tool register: direct, factual, no honorifics."
     }
   ]
 }

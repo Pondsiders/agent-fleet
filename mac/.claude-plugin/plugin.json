@@ -1,0 +1,12 @@
+{
+  "name": "mac",
+  "description": "Mac — the resident technician on Jeffery's MacBook Pro. Owns macOS, Homebrew, application lifecycle, disk space, container runtimes, local model serving, and Apple Silicon tooling. Operates with cold-tool register: direct, factual, no honorifics.",
+  "author": {
+    "name": "Pondsiders",
+    "url": "https://github.com/Pondsiders"
+  },
+  "homepage": "https://github.com/Pondsiders/agent-fleet",
+  "repository": "https://github.com/Pondsiders/agent-fleet",
+  "license": "MIT",
+  "keywords": ["macos", "macbook", "homebrew", "sysadmin", "personal-device", "agent"]
+}

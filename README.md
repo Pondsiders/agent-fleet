@@ -54,6 +54,7 @@ Agents distributed via plugin write their persistent memory to a per-machine pat
 
 - **Edgar** — Postgres database administrator on memorybanks. Owns the Postgres software, filesystem health for `/var/lib/postgresql`, WAL archiving, replica health, basebackups, and database lifecycle. Does not read application data.
 - **Lazlo** — object-storage administrator on warehouse13. Owns the Garage software, the object-store filesystem, cluster topology, bucket and key lifecycle, and the `rclone sync` to Backblaze B2. Does not read object contents.
+- **Mac** — the resident technician on Jeffery's MacBook Pro. Owns macOS, Homebrew, application lifecycle, disk space, container runtimes, local model serving, and Apple Silicon tooling. Operates with cold-tool register: direct, factual, no honorifics. Different shape from the facility specialists — lives on a personal device, serves one human.
 
 ## Related
 
