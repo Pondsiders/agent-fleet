@@ -19,6 +19,11 @@
       "name": "mac",
       "source": "./mac",
       "description": "Mac — the resident technician on Jeffery's MacBook Pro. Owns macOS, Homebrew, application lifecycle, disk space, container runtimes, local model serving, and Apple Silicon tooling. Cold-tool register: direct, factual, no honorifics."
+    },
+    {
+      "name": "operator",
+      "source": "./operator",
+      "description": "The Operator (he goes by Link) — resident operator of Primer, the household's hypervisor and Docker host. Operates the substrate (ZFS, libvirt, Docker, networking, per-cluster Postgres, per-bucket object storage); does not read the contents."
     }
   ]
 }
