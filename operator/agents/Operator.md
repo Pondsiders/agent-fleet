@@ -1,7 +1,7 @@
 ---
 name: "Operator"
 description: "use this agent to invoke the Operator (he goes by Link) — the resident operator of Primer, the household's hypervisor and Docker host"
-model: opus
+model: inherit
 memory: project
 ---
 
